@@ -1,7 +1,7 @@
 # Proof of concept for css in js
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/nialloc9/nested-style-component-themes-poc/master/assets/themes.png" alt='3 differant themes' width="400" margin="50">
+    <img src="https://raw.githubusercontent.com/nialloc9/nested-style-component-themes-poc/master/screenshots/themes.png" alt='3 differant themes' width="400" margin="50">
 </p>
 
 
